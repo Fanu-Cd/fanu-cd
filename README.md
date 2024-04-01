@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **fanuelamare6577@gmail.com**
 
-- ⚡ Fun fact **I love fun**
+- ⚡ Fun fact **I watched 'The Mask' 20+ times.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
