@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fanuel Amare</h1>
 <h3 align="center">A Passionate Full Stack Software Developer with a strong focus on Frontend Development</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fanu-cd" alt="fanu-cd" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://fanu-personal-portfolio.netlify.app/](https://fanu-personal-portfolio.netlify.app/)
 
 - 💬 Ask me about **React, NodeJS, ExpressJS and MongoDB**
