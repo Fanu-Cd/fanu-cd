@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fanuel Amare</h1>
 <h3 align="center">A Passionate Full Stack Software Developer with a strong focus on Frontend Development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fanu-cd&label=Profile%20views&color=0e75b6&style=flat" alt="fanu-cd" /> </p>
-
 - 🔭 I’m currently working on **Healthcare Licensing System which provides a fully digital platform for health license applications, real-time tracking, certification, and post-licensing processes such as renewals, upgrades, suspensions, complaints, and regulatory management. We use React.js and Next.js for the Frontend and Nest.js for the Backend implementation.**
 
 - 👨‍💻 All of my projects are available at [https://fanuel-amare-personal-portfolio-v2.vercel.app/?flavor=code](https://fanuel-amare-personal-portfolio-v2.vercel.app/?flavor=code)
